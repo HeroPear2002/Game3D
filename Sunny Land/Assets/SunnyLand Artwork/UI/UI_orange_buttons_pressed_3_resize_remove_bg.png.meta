@@ -1,0 +1,685 @@
+fileFormatVersion: 2
+guid: 97aafc61b9637ee4b8d7b9890192e834
+TextureImporter:
+  internalIDToNameTable: []
+  externalObjects: {}
+  serializedVersion: 12
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMasterTextureLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 16
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Server
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: UI_orange_buttons_pressed_3_resize_remove_bg_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 895
+        width: 180
+        height: 180
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c79fc7879c9ad1b4099b99b3759173d2
+      internalID: 2146804298
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: UI_orange_buttons_pressed_3_resize_remove_bg_1
+      rect:
+        serializedVersion: 2
+        x: 180
+        y: 895
+        width: 180
+        height: 180
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 424e501e105fed34fb414bcdbfce4e26
+      internalID: -486184467
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: UI_orange_buttons_pressed_3_resize_remove_bg_2
+      rect:
+        serializedVersion: 2
+        x: 360
+        y: 895
+        width: 180
+        height: 180
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 981778ec2ea88a2449adc28fc9b596ca
+      internalID: -318749521
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: UI_orange_buttons_pressed_3_resize_remove_bg_3
+      rect:
+        serializedVersion: 2
+        x: 540
+        y: 895
+        width: 180
+        height: 180
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f3218a2dce1a0d44684690b0fc71c444
+      internalID: 484815006
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: UI_orange_buttons_pressed_3_resize_remove_bg_4
+      rect:
+        serializedVersion: 2
+        x: 720
+        y: 895
+        width: 180
+        height: 180
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e73cbefe79365524ea2919e18579ef1e
+      internalID: -535272913
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: UI_orange_buttons_pressed_3_resize_remove_bg_5
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 715
+        width: 180
+        height: 180
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d4e417dacd69020458dcb8a3ddecca8d
+      internalID: -251728775
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: UI_orange_buttons_pressed_3_resize_remove_bg_6
+      rect:
+        serializedVersion: 2
+        x: 180
+        y: 715
+        width: 180
+        height: 180
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0d88824180fa74c419287a75fb9061fc
+      internalID: -896197590
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: UI_orange_buttons_pressed_3_resize_remove_bg_7
+      rect:
+        serializedVersion: 2
+        x: 360
+        y: 715
+        width: 180
+        height: 180
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6028b5252cb719c4583357af7b2028f1
+      internalID: 1240360434
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: UI_orange_buttons_pressed_3_resize_remove_bg_8
+      rect:
+        serializedVersion: 2
+        x: 540
+        y: 715
+        width: 180
+        height: 180
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 47f014e12bab47442b008eb57434c9b8
+      internalID: -697198149
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: UI_orange_buttons_pressed_3_resize_remove_bg_9
+      rect:
+        serializedVersion: 2
+        x: 720
+        y: 715
+        width: 180
+        height: 180
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 79ffeb5ab1aad994f9007bf0d8623661
+      internalID: -1053465298
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: UI_orange_buttons_pressed_3_resize_remove_bg_10
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 535
+        width: 180
+        height: 180
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 746d1db40af9ff844b0ee28052101cf9
+      internalID: -1350251158
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: UI_orange_buttons_pressed_3_resize_remove_bg_11
+      rect:
+        serializedVersion: 2
+        x: 180
+        y: 535
+        width: 180
+        height: 180
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 571646eee21b6f04b82af2c4efd96d8f
+      internalID: -1625306362
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: UI_orange_buttons_pressed_3_resize_remove_bg_12
+      rect:
+        serializedVersion: 2
+        x: 360
+        y: 535
+        width: 180
+        height: 180
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1647c6c4cbf767643a3b4d909337e7df
+      internalID: 293345183
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: UI_orange_buttons_pressed_3_resize_remove_bg_13
+      rect:
+        serializedVersion: 2
+        x: 540
+        y: 535
+        width: 180
+        height: 180
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7885421db5ebc9449bb9e16ce788a208
+      internalID: 1235281563
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: UI_orange_buttons_pressed_3_resize_remove_bg_14
+      rect:
+        serializedVersion: 2
+        x: 720
+        y: 535
+        width: 180
+        height: 180
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 06140187c4578b34b999e0c204d359fb
+      internalID: -1575986629
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: UI_orange_buttons_pressed_3_resize_remove_bg_15
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 355
+        width: 180
+        height: 180
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6b7fb29bf5af2ba4ea542eddbbbde81e
+      internalID: 1540141532
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: UI_orange_buttons_pressed_3_resize_remove_bg_16
+      rect:
+        serializedVersion: 2
+        x: 180
+        y: 355
+        width: 180
+        height: 180
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7257548430d14ba4d9a4f4d50c5463e5
+      internalID: -1102681215
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: UI_orange_buttons_pressed_3_resize_remove_bg_17
+      rect:
+        serializedVersion: 2
+        x: 360
+        y: 355
+        width: 180
+        height: 180
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b19dcf08f123a154395b0e332fad0039
+      internalID: -1448773051
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: UI_orange_buttons_pressed_3_resize_remove_bg_18
+      rect:
+        serializedVersion: 2
+        x: 540
+        y: 355
+        width: 180
+        height: 180
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 48e174df68c0a4d49b0b53f2be3a54ba
+      internalID: 1740486140
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: UI_orange_buttons_pressed_3_resize_remove_bg_19
+      rect:
+        serializedVersion: 2
+        x: 720
+        y: 355
+        width: 180
+        height: 180
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cd24b78897dc30f449d5c1e908ff5c8c
+      internalID: 1050080385
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: UI_orange_buttons_pressed_3_resize_remove_bg_20
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 175
+        width: 180
+        height: 180
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d834ebb1733d5494ba4206f9e79c1006
+      internalID: 982811191
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: UI_orange_buttons_pressed_3_resize_remove_bg_21
+      rect:
+        serializedVersion: 2
+        x: 180
+        y: 175
+        width: 180
+        height: 180
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4e53ecfacceba8943ad3eb22946ec206
+      internalID: -1179083050
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: UI_orange_buttons_pressed_3_resize_remove_bg_22
+      rect:
+        serializedVersion: 2
+        x: 360
+        y: 175
+        width: 180
+        height: 180
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 22a1f30205d710a40a1c9eec25a48d2a
+      internalID: -1996037112
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: UI_orange_buttons_pressed_3_resize_remove_bg_23
+      rect:
+        serializedVersion: 2
+        x: 540
+        y: 175
+        width: 180
+        height: 180
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 88b99a63b03c5054ea70ea80784e8bef
+      internalID: -1221416046
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: UI_orange_buttons_pressed_3_resize_remove_bg_24
+      rect:
+        serializedVersion: 2
+        x: 720
+        y: 175
+        width: 180
+        height: 180
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8f520ccf6a60737499432aa603dae6fd
+      internalID: 1761027587
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    nameFileIdTable:
+      UI_orange_buttons_pressed_3_resize_remove_bg_4: -535272913
+      UI_orange_buttons_pressed_3_resize_remove_bg_20: 982811191
+      UI_orange_buttons_pressed_3_resize_remove_bg_23: -1221416046
+      UI_orange_buttons_pressed_3_resize_remove_bg_9: -1053465298
+      UI_orange_buttons_pressed_3_resize_remove_bg_15: 1540141532
+      UI_orange_buttons_pressed_3_resize_remove_bg_17: -1448773051
+      UI_orange_buttons_pressed_3_resize_remove_bg_18: 1740486140
+      UI_orange_buttons_pressed_3_resize_remove_bg_11: -1625306362
+      UI_orange_buttons_pressed_3_resize_remove_bg_12: 293345183
+      UI_orange_buttons_pressed_3_resize_remove_bg_24: 1761027587
+      UI_orange_buttons_pressed_3_resize_remove_bg_7: 1240360434
+      UI_orange_buttons_pressed_3_resize_remove_bg_10: -1350251158
+      UI_orange_buttons_pressed_3_resize_remove_bg_0: 2146804298
+      UI_orange_buttons_pressed_3_resize_remove_bg_2: -318749521
+      UI_orange_buttons_pressed_3_resize_remove_bg_22: -1996037112
+      UI_orange_buttons_pressed_3_resize_remove_bg_3: 484815006
+      UI_orange_buttons_pressed_3_resize_remove_bg_13: 1235281563
+      UI_orange_buttons_pressed_3_resize_remove_bg_16: -1102681215
+      UI_orange_buttons_pressed_3_resize_remove_bg_6: -896197590
+      UI_orange_buttons_pressed_3_resize_remove_bg_14: -1575986629
+      UI_orange_buttons_pressed_3_resize_remove_bg_8: -697198149
+      UI_orange_buttons_pressed_3_resize_remove_bg_21: -1179083050
+      UI_orange_buttons_pressed_3_resize_remove_bg_5: -251728775
+      UI_orange_buttons_pressed_3_resize_remove_bg_1: -486184467
+      UI_orange_buttons_pressed_3_resize_remove_bg_19: 1050080385
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

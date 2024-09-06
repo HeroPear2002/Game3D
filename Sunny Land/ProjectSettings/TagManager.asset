@@ -1,0 +1,74 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!78 &1
+TagManager:
+  serializedVersion: 2
+  tags:
+  - Ladder
+  - Enemies
+  - Ground
+  - Cherry
+  - Gem
+  - Spike
+  - Enemies_Frog
+  layers:
+  - Default
+  - TransparentFX
+  - Ignore Raycast
+  - 
+  - Water
+  - UI
+  - Ground
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  m_SortingLayers:
+  - name: Default
+    uniqueID: 0
+    locked: 0
+  - name: BackGround
+    uniqueID: 689079873
+    locked: 0
+  - name: Grass
+    uniqueID: 1690490931
+    locked: 0
+  - name: Spikes
+    uniqueID: 1065006335
+    locked: 0
+  - name: props
+    uniqueID: 2917180351
+    locked: 0
+  - name: Enemies
+    uniqueID: 5718127
+    locked: 0
+  - name: Items
+    uniqueID: 667426587
+    locked: 0
+  - name: Player
+    uniqueID: 598545791
+    locked: 0
+  - name: Icons
+    uniqueID: 1567998061
+    locked: 0
